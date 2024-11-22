@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on web developer 
 - 📫 How to reach me :-adityasoam13@gmail.com
-- 😄 Pronouns: satyam 
+- 😄 Pronouns: he/her 
 - ⚡ Fun fact: 😁
 
 <!---
